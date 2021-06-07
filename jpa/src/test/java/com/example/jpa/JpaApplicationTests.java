@@ -44,6 +44,8 @@ class JpaApplicationTests {
             studentName = getValue(row.getCell(2));
 
             System.out.println(name + " " + age + " " + studentName);
+
+            System.out.println("111");
         }
 
     }
